@@ -1,0 +1,25 @@
+{
+  "name": "esprimaexamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffarzat/EsprimaExamples.git"
+  },
+  "author": "Fabio Farzat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffarzat/EsprimaExamples/issues"
+  },
+  "homepage": "https://github.com/ffarzat/EsprimaExamples#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
+  "dependencies": {
+    "esprima": "^3.0.0"
+  }
+}
